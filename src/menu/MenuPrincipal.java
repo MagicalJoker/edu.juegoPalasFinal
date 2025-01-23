@@ -1,7 +1,8 @@
-package controladores;
+package menu;
 
 
 import javax.swing.*;
+
 import java.awt.*;
 /**
  * jmormez | 23-01-2025

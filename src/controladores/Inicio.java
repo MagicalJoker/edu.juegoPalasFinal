@@ -1,6 +1,8 @@
 package controladores;
 
 import javax.swing.*;
+
+import menu.MenuPrincipal;
 /**
  * @author jmormez
  * 23-01-2025

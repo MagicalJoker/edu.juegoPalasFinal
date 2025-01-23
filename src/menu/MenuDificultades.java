@@ -1,4 +1,4 @@
-package controladores;
+package menu;
 
 
 import javax.swing.*;
